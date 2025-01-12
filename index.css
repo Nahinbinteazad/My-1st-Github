@@ -227,7 +227,7 @@ body{
     position: absolute;
     top:0;
     left:0;
-    background-image:url('/image/image-asset-removebg-preview.png');
+    background-image:url('image/image-asset-removebg-preview.png');
     background-repeat: no-repeat;
     background-size: 50px;
     background-position-x: 10px;
